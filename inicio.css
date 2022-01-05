@@ -44,6 +44,10 @@ body {
   color: black;
   text-decoration: none;
 }
+.menu-navegacion a:hover {
+  color: rgb(8, 56, 214);
+  font-weight: bold;
+}
 .menu-icon{
   position: fixed;
   top: 30px;
